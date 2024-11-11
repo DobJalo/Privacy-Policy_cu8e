@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>This app is provided as a free application and does not collect, store, or share any information that could personally identify users. We do not process personal information or track user behavior within the app.</p>
+
+    <p>This app uses Google Ads to display advertisements. Please note that Google Ads may collect and use certain information to show personalized ads. Data handling practices and privacy regulations for Google Ads are governed by Google’s privacy policy.</p>
+
+    <p>You can review Google’s privacy policy at the following link:  
+    <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></p>
+
+    <p>We reserve the right to update this privacy policy as needed. We recommend reviewing this page periodically to stay informed about any changes.</p>
+
+    <p>If you have any questions or suggestions about this privacy policy, please contact us via email: c8begame@gmail.com.</p>
+</body>
+</html>
